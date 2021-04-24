@@ -1,0 +1,29 @@
+.table-responsive {
+    max-height: 530px;
+    margin-top: 5px;
+    overflow-y: auto;
+}
+
+.table-responsive table thead th {
+    position: sticky;
+    top: 0;
+    background-color: #FFFFFF;
+}
+
+.table-responsive .td-60 {
+    width: 60px;
+}
+
+
+.table-responsive .td-80 {
+    width: 80px;
+}
+
+.table-responsive .td-120 {
+    width: 120px;
+}
+
+
+.table-responsive .td-180 {
+    width: 180px;
+}
